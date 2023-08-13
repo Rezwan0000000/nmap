@@ -8,7 +8,7 @@ figlet -c -f slant "$(echo -e ${YELLOW}NMAP${RESET})"
 echo "----------------------------------------------------"
 echo "
   +------------------------------------+
-  |       Nmap Bash - Created By      |
+  |       Nmap Bash - Created By       |
   |            REZWAN                  |
   +------------------------------------+
   "
